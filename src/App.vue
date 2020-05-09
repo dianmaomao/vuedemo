@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="邱文斌大帅逼1111第五次" />
+    <HelloWorld msg="邱文斌是大帅逼啊啊啊啊啊" />
     <p>{{data}}</p>
   </div>
 </template>
